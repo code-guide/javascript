@@ -1,0 +1,23 @@
+{
+  "name": "@code-guide/javascript",
+  "version": "1.0.0",
+  "description": "Deep learning JavaScript.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-guide/javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-guide/javascript/issues"
+  },
+  "homepage": "https://github.com/code-guide/javascript#readme"
+}
